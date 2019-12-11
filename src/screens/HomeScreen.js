@@ -15,7 +15,7 @@ class HomeScreen extends React.Component {
                             titleParam: 'To Do List',
                         });
                     }}
-                />
+                />  
             </View>
         );
     }
